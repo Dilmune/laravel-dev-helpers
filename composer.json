@@ -1,8 +1,6 @@
 {
     "name": "dilmune/laravel-dev-helpers",
     "description": "Laravel Dev Helper Functions",
-    "minimum-stability": "stable",
-    "prefer-stable": true,
     "license": "MIT",
     "authors": [
         {
@@ -51,5 +49,7 @@
                 "laravelista/lumen-vendor-publish"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
