@@ -1,13 +1,13 @@
 {
-    "name": "viitech/laravel-dev-helpers",
+    "name": "dilmune/laravel-dev-helpers",
     "description": "Laravel Dev Helper Functions",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "license": "MIT",
     "authors": [
         {
-            "name": "VII Tech Solutions",
-            "email": "webmaster@viitech.net"
+            "name": "Dilmune",
+            "email": "webmaster@dilmune.com"
         }
     ],
     "require": {
